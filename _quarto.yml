@@ -7,7 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - 2024.qmd
 
 format:
   html:
