@@ -1,5 +1,5 @@
 ---
-title: "monthly-reports"
+title: "Monthly Reports"
 ---
 
 This is a Quarto website.
