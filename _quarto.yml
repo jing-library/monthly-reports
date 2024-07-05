@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "monthly-reports"
+  title: "Monthly Report"
   navbar:
     left:
       - href: index.qmd

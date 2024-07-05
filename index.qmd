@@ -2,7 +2,7 @@
 title: "Monthly Reports"
 ---
 
-This is a Quarto website.
+This is a Quarto website for monthly report.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

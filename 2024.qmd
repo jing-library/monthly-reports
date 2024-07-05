@@ -1,9 +1,48 @@
 ---
 title: "2024"
+editor: visual
+format: 
+  html:
+    self-contained: true
+    toc: true
+    toc-depth: 2
+    toc-expand: 2
+    toc-location: left
 ---
 
-About this site
+Last compiled: `r Sys.Date()`
 
-```{r}
-1 + 1
-```
+# **June 2024**
+
+## Website
+
+-   Updated library hours on Google profiles
+-   Read through the update logs
+-   Read documents on the new global template
+-   Minor page updates to respond to requests
+
+## Teaching
+
+-   Prepared the workshop series of R4Beginners - updating content
+-   Preparing for co-teaching with Brian on AI tools for researchers
+
+## Research
+
+-   Watched CNI digital scholarship webinar recordings
+-   Attended workshop - Teaching and Learning with AI
+-   Revisited CS50
+-   Readings on AI coding assistants
+
+## Service
+
+-   IFLA
+    -   Created event page, circulated event information on distribution lists;
+    -   Created YouTube channel and uploaded 3 workshops;
+    -   Created a Gmail for the S&E session and migrated all the session files to the new account; shared account information with the chair and secretary
+    -   Attended monthly meeting
+-   Attended AI working group meeting
+
+## Others
+
+-   Managed current and old emails
+-   Responded queries through website email
