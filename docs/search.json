@@ -2,16 +2,16 @@
   {
     "objectID": "2024.html",
     "href": "2024.html",
-    "title": "2024",
+    "title": "Monthly Reports 2024",
     "section": "",
-    "text": "Last compiled: 2024-07-05"
+    "text": "Last compiled: 2024-07-31"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Monthly Reports",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website for monthly report.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "2024.html#website",
@@ -47,5 +47,19 @@
     "title": "2024",
     "section": "Others",
     "text": "Others\n\nManaged current and old emails\nResponded queries through website email"
+  },
+  {
+    "objectID": "2024.html#july",
+    "href": "2024.html#july",
+    "title": "Monthly Reports 2024",
+    "section": "July",
+    "text": "July\n\nWebsite (~ 20 hours)\n\nWeb access groups management\nSilktide testing and website updates\nPrepare for web redesign\nMinor page updates to respond to requests\n\n\n\nTeaching (~ 8 hours)\n\nPrepared the workshop series of R4Beginners - updating content\n\n\n\nResearch (~ 67 hours)\n\nConference: 2024 useR!\nAttended workshops organized by TAP Institute from Constellate\nSkillType webinars\nWorkshop on Data visualization\n\n\n\nService (~ 2 hours)\n\nIFLA\n\nUpdated event pages;\nUploaded 2 workshops to YouTube channel;\nArchived workshop related content to Google Drive\n\nAttended AI working group meeting\n\n\n\nOthers (~ 16 hours)\n\nResponded queries through website email\nConference preparation"
+  },
+  {
+    "objectID": "2024.html#june",
+    "href": "2024.html#june",
+    "title": "Monthly Reports 2024",
+    "section": "June",
+    "text": "June\n\nWebsite\n\nUpdated library hours on Google profiles\nRead through the update logs\nRead documents on the new global template\nMinor page updates to respond to requests\n\n\n\nTeaching\n\nPrepared the workshop series of R4Beginners - updating content\nPreparing for co-teaching with Brian on AI tools for researchers\n\n\n\nResearch\n\nWatched CNI digital scholarship webinar recordings\nAttended workshop - Teaching and Learning with AI\nRevisited CS50\nReadings on AI coding assistants\n\n\n\nService\n\nIFLA\n\nCreated event page, circulated event information on distribution lists;\nCreated YouTube channel and uploaded 3 workshops;\nCreated a Gmail for the S&E session and migrated all the session files to the new account; shared account information with the chair and secretary\nAttended monthly meeting\n\nAttended AI working group meeting\n\n\n\nOthers\n\nManaged current and old emails\nResponded queries through website emails"
   }
 ]
