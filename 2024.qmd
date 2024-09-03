@@ -12,6 +12,48 @@ format:
 
 Last compiled: `r Sys.Date()`
 
+## August
+
+### Website (\~ 23 hours)
+
+-   **Website Redesign Plan:** set up objectives and timeline, added more details, and requested Hotjar subscription
+
+-   **Library Maps, homepage links, and other minor updates**: demo map updates to Micah; updated OA awards, library hours, homepage links, style updates due to the implementation of the new global template, etc.
+
+-   **Silktide**: Review reports and make corresponding updates.
+
+### Teaching (\~ 60 hours)
+
+-   **R for Beginners**: update course work
+
+### Research ( \~ 20 hours)
+
+-   DPI conference
+
+-   Workshop: Adapting to Innovation & the Texas Landscape of AI
+
+-   Reading: R for Data Analysis in Social Sciences
+
+-   Online training material on Google Analytics 4
+
+### Service (\~ 7 hours)
+
+-   **IFLA S&E**: monthly meeting; investigated about the upcoming satellite meeting
+
+-   **UX/Web Team meeting**: reported website updates
+
+-   **AI working group meeting**
+
+### Others (\~ 20 hours)
+
+-   Responded queries through website email
+
+-   Unit meeting
+
+-   HR training
+
+-   New laptop preparation and software installation
+
 ## **July**
 
 ### Website (\~ 20 hours)
