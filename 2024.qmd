@@ -12,6 +12,49 @@ format:
 
 Last compiled: `r Sys.Date()`
 
+## September
+
+### Website (\~ 16 hours)
+
+-   **Minor updates**: building form, software list, profile pages
+
+-   **Silktide**: Review reports and make corresponding updates
+
+-   **Project support**: create code for header and footer
+
+### Teaching (\~ 64 hours)
+
+-   **R for Beginners**: update course work and teaching
+-   **Streamlining Research and Literature Reviews Using A.I.**: preparation
+-   **Tableau**: co-teach with Cynthia
+-   **Student consultations for R programming**
+
+### Research ( \~ 39 hours)
+
+-   **Workshop**: AI tools in Education; CALA workshops on using AI in libraries
+
+-   **Reading**: R for Data Analysis in Social Sciences, logistic regression
+
+-   Interview for using AI in accessibility
+
+-   Learning RAG techique
+
+### Service (\~ 7 hours)
+
+-   **IFLA S&E**: monthly meeting
+
+-   **CFSA** meeting and distribution list and website maintenance
+
+-   **AI working group meeting**
+
+-   **Data visualization group meeting**
+
+### Others (\~ 28 hours)
+
+-   Responded queries through website email
+
+-   Unit meeting
+
 ## August
 
 ### Website (\~ 23 hours)
