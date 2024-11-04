@@ -11,7 +11,7 @@
     "href": "2024.html",
     "title": "Monthly Reports 2024",
     "section": "",
-    "text": "Last compiled: r Sys.Date()"
+    "text": "Last compiled: r format(Sys.time(), '%B %d, %Y')"
   },
   {
     "objectID": "2024.html#august",
@@ -40,5 +40,12 @@
     "title": "Monthly Reports 2024",
     "section": "September",
     "text": "September\n\nWebsite (~ 16 hours)\n\nMinor updates: building form, software list, profile pages\nSilktide: Review reports and make corresponding updates\nProject support: create code for header and footer\n\n\n\nTeaching (~ 64 hours)\n\nR for Beginners: update course work and teaching\nStreamlining Research and Literature Reviews Using A.I.: preparation\nTableau: co-teach with Cynthia\nStudent consultations for R programming\n\n\n\nResearch ( ~ 39 hours)\n\nWorkshop: AI tools in Education; CALA workshops on using AI in libraries\nReading: R for Data Analysis in Social Sciences, logistic regression\nInterview for using AI in accessibility\nLearning RAG techique\n\n\n\nService (~ 7 hours)\n\nIFLA S&E: monthly meeting\nCFSA meeting and distribution list and website maintenance\nAI working group meeting\nData visualization group meeting\n\n\n\nOthers (~ 28 hours)\n\nResponded queries through website email\nUnit meeting"
+  },
+  {
+    "objectID": "2024.html#october",
+    "href": "2024.html#october",
+    "title": "Monthly Reports 2024",
+    "section": "October",
+    "text": "October\n\nWebsite (~ 3 hours)\n\nMinor updates: personal librarians, web request\nProject support: develop plan B for development site\n\n\n\nTeaching (~ 7 hours)\n\nR for Beginners: update course work and teaching\nStreamlining Research and Literature Reviews Using A.I.: preparation & teaching\n\n\n\nResearch ( ~ 110 hours)\n\nWorkshop & Conference: AI Symposium on campus; SEDLS; AI for libraries: Advancing research and discovery; Librarian & Faculty Perceptions of AI in the Disciplines; Dreaming of AI with Guru; two workshops by Hathitrust\nAI working group project - Chatbots in libraries and AI-powered coding assistant\nFinalized book chapter for data culture: responding to editors’ comments\nLearning RAG technique & spaCy\nPaper on using generative AI for content analysis\n\n\n\nService (~ 6 hours)\n\nCFSA updated distribution list and website; new member orientation\n\n\n\nOthers (~ 10 hours)\n\nResponded queries through website email"
   }
 ]

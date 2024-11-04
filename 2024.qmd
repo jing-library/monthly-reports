@@ -10,7 +10,41 @@ format:
     toc-location: left
 ---
 
-Last compiled: `r Sys.Date()`
+Last compiled: ` r format(Sys.time(), '%B %d, %Y') `
+
+
+## October
+
+### Website (\~ 3 hours)
+
+-   **Minor updates**: personal librarians, web request
+
+-   **Project support**: develop plan B for development site
+
+### Teaching (\~ 7 hours)
+
+-   **R for Beginners**: update course work and teaching
+-   **Streamlining Research and Literature Reviews Using A.I.**: preparation & teaching
+
+### Research ( \~ 110 hours)
+
+-   **Workshop & Conference**: AI Symposium on campus; SEDLS; AI for libraries: Advancing research and discovery; Librarian & Faculty Perceptions of AI in the Disciplines; Dreaming of AI with Guru; two workshops by Hathitrust
+
+-   AI working group project - Chatbots in libraries and AI-powered coding assistant
+
+-   Finalized book chapter for data culture: responding to editors' comments
+
+-   Learning RAG technique & spaCy
+
+-   Paper on using generative AI for content analysis
+
+### Service (\~ 6 hours)
+
+-   **CFSA** updated distribution list and website; new member orientation
+
+### Others (\~ 10 hours)
+
+-   Responded queries through website email
 
 ## September
 
